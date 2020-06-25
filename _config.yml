@@ -1,11 +1,11 @@
 # Site settings
-author: Nicholas Diaz
-title: 
+author: Nick Diaz
+title: Faking It Till I Make It
 header-img: img/home-bg.png
 email: nickdiaz58@gmail.com
-copyright_name: Nicholas Diaz
+copyright_name: Nick Diaz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Stumbling Through Life, Picking up Skills as I Go
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nickdiaz57
