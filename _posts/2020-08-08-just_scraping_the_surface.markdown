@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Just Scraping the Surface"
-date:       2020-08-08 20:47:28 +0000
+date:       2020-08-08 16:47:29 -0400
 permalink:  just_scraping_the_surface
 ---
 
@@ -10,4 +10,6 @@ Just before the CLI Portfolio project started, I was a bit behind in where I sho
 
 As I made my way through the material I needed to catch up, I often ended up retreating back into my current favorite timesink (and subject of my project) when I was feeling mentally drained:  Elite Dangerous.  From the outside the game looked almost impenetrable - nearly forty completely customizeable ships to play in, complex power dynamics and struggles between in-game NPC and player factions, literally millions of fully-rendered star systems to visit, and the unforgiving void of space always just outside your cockpit glass.  With time, though, I found that all I had to do was take things slowly.  Learn to fly in the starting ship.  Accept a mission to move some data or a couple tons of stuff to the next system over.  Fly there, get paid, rinse and repeat.  Buy a new ship, now I can move more stuff.  Buy another ship, now I can shoot rocks and make money doing it.  Buy another ship, now I can start shooting at other ships.  Buy another ship, and now I'm ready to leave everything behind and venture into the far reaches of the galaxy.  And I could get there all just by scraping the surface of what the galaxy had to offer.
 
-The project ended up being much the same.  Watch a couple videos and remind myself what Nokogiri is and how to use it.  Use it to pick a couple websites and scrape a small amount of data about the ships and engineers of Elite off of them.  Use those bits of data to make a Ruby object out of each ship and each engineer.  Build some methods to make those objects tell users about themselves or to relate them to each other
+The project ended up being much the same.  Watch a couple videos and remind myself what Nokogiri is and how to use it.  Use it to pick a couple websites and scrape a small amount of data about the ships and engineers of Elite off of them.  Use those bits of data to make a Ruby object out of each ship and each engineer.  Build some methods to make those objects tell users about themselves or to relate them to each other - sorting ships by their stats or their base price, finding all ships built by a particular manufacturer, making a list of all engineers and where to find them, and even making a tool to find an engineer that works on a specific ship component the user is looking for.  And at the end, tie them all together with another set of methods that prints all that data out nicely for the user's viewing pleasure.
+
+All this started by learning to take a little bit of data off the front of a website and using what knowledge and skills I had to expand from there.  With this project I learned that like in Elite, so much can be done just by scratching the surface of a problem and using creativity and shared knowledge to fill in the gaps.  And, also like Elite, I'm excited to know that this project is my first real scrape across the surface of my coding journey, and I can't wait to see what far reaches I can get to from here.
